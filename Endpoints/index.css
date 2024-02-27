@@ -1,0 +1,26 @@
+/* Tags */
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("http://fc03.deviantart.net/fs70/i/2012/084/c/7/rick_roll_by_idonthaveaname999-d4twtuv.jpg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#image {
+    position: absolute;
+    scale: 200%;
+    width: 100vw;
+    height: 100vh;
+}
